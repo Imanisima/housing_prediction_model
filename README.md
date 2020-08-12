@@ -1,4 +1,4 @@
-## Real-Estate in Melbourne
+## Predicting Housing Prices in Iowa and Melbourne
 Predicting real-estate prices using machine learning.
 
 The datasets used are from Kaggle and can be found below:
