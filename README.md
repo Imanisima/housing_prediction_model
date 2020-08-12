@@ -1,2 +1,2 @@
-# melbourne_housing_model
-Predicting real-estate prices 
+## Real-Estate in Melbourne
+Predicting real-estate prices using machine learning.
